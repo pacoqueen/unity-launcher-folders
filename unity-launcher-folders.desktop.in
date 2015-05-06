@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Unity Launcher Folders
+_Comment=UnityLauncherFolders application
+Categories=GNOME;Utility;
+Exec=unity-launcher-folders
+Icon=unity-launcher-folders
+Terminal=false
+Type=Application

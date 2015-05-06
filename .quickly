@@ -1,0 +1,5 @@
+project = unity-launcher-folders
+version = 12.08.1
+template = ubuntu-application
+lp_id = unity-launcher-folders
+ppa = unity-launcher-folders

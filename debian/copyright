@@ -1,0 +1,11 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: unity-launcher-folders
+Upstream-Contact: Anton Sukhovatkin <laucnherfolders@exceptionfound.com>
+Source: https://launchpad.net/unity-launcher-folders
+
+Files: *
+Copyright: (C) 2014 Anton Sukhovatkin <laucnherfolders@exceptionfound.com>
+Copyright: (C) 2014 Anton Sukhovatkin <laucnherfolders@exceptionfound.com></property><property name="website">https://launchpad.net/unity-launcher-folders</property><property name="can_focus">False</property>
+License: GPL-3
+ The full text of the GPL is distributed in
+ /usr/share/common-licenses/GPL-3 on Debian systems.
