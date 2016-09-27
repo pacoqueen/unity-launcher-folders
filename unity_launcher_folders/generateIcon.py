@@ -14,7 +14,11 @@
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
 ### END LICENSE
 from gi.repository import Gdk, GdkPixbuf
-import Image
+
+try:
+    import Image
+except:
+    from PIL.Image import core as Image
 import os
 
 CONFIG_DIR = os.getenv('HOME') + "/.appDrawerConfig/"
